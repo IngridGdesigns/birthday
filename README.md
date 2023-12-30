@@ -1,5 +1,7 @@
 # birthday
 
+Practice HTML/CSS project, created birthday site with gifs from [Giphy](https://giphy.com/) and Scrimba as a learning guide.
+
 Quick start:
 
 ```
